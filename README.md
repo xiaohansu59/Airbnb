@@ -1,1 +1,1 @@
-# data 
+# data for Airbnb analysis
